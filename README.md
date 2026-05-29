@@ -1,4 +1,6 @@
 <img width="310" height="163" alt="images" src="https://github.com/user-attachments/assets/dde0d405-7e02-401f-83d6-b729123e3538" />
+
+
 Customer Segmentation &amp; Revenue Analysis using SQL – Analyzed customer purchasing behavior, revenue trends, and sales performance using SQL queries, joins, CTEs, and aggregate functions.
 Project Overview
 
